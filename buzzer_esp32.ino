@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // Wi-Fi sozlamalari
-const char* ssid = "Mama"; // Wi-Fi nomini kiriting
-const char* password = "19962003"; // Wi-Fi parolini kiriting
+const char* ssid = "wifi_name"; // Wi-Fi nomini kiriting
+const char* password = "wifi_password"; // Wi-Fi parolini kiriting
 
 // MQTT sozlamalari
 const char* mqtt_server = "broker.emqx.io";
